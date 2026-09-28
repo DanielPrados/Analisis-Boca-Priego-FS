@@ -9,7 +9,7 @@ Proyecto de **Data Analytics aplicado al Fútbol Sala** mediante informes intera
 | Informe | Archivo | Descripción |
 | :--- | :--- | :--- |
 | **Análisis Boca** | [`AnálisisBOCA.pbix`](./An%C3%A1lisis/An%C3%A1lisisBOCA.pbix) | Dashboard principal para el análisis táctico, métricas ofensivas/defensivas y seguimiento del primer equipo. |
-| **Análisis Boca Juvenil** | [`Análisis Boca Juvenil.pbix`](./An%C3%A1lisis/An%C3%A1lisis%20Boca%20Juvenil.pbix) | Informe centrado en el rendimiento de la cantera, clasificación de la liga, análisis disciplinario y goleadores. |
+| **Análisis Boca Juvenil** | [`Análisis Boca Juvenil.pbix`](./An%C3%A1lisis/An%C3%A1lisis%20Boca%20Juvenil.pbix) | Dashboard principal para el análisis táctico, métricas ofensivas/defensivas y seguimiento del equipo juvenil. |
 
 ---
 

@@ -41,9 +41,7 @@ Proyecto de **Data Analytics aplicado al Fútbol Sala** mediante informes intera
 
 | Clasificación y Métricas Colectivas | Rendimiento Individual |
 | :---: | :---: |
-| <img width="1329" height="740" alt="image" src="https://github.com/user-attachments/assets/5f34d4ea-5dd4-4245-9dea-d4aaad872ca1" />
- | <img width="1323" height="740" alt="image" src="https://github.com/user-attachments/assets/9bd3c0bd-564a-4840-84a9-149bc6360197" />
- |
+| <img width="1329" height="740" alt="image" src="https://github.com/user-attachments/assets/5f34d4ea-5dd4-4245-9dea-d4aaad872ca1" /> | <img width="1323" height="740" alt="image" src="https://github.com/user-attachments/assets/9bd3c0bd-564a-4840-84a9-149bc6360197" /> |
 
 ---
 

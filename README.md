@@ -33,9 +33,7 @@ Proyecto de **Data Analytics aplicado al Fútbol Sala** mediante informes intera
 
 | Comparativa vs Rival | Calendario de Partidos |
 | :---: | :---: |
-| <img width="1325" height="746" alt="Captura de pantalla 2026-09-28 212753" src="https://github.com/user-attachments/assets/90e5527a-a46f-4d3a-87db-f133a73d78e0" />
- | <img width="1324" height="738" alt="image" src="https://github.com/user-attachments/assets/f5e69e41-3b18-47b6-bbbf-5304f8b4028d" />
- |
+| <img width="1325" height="746" alt="Captura de pantalla 2026-09-28 212753" src="https://github.com/user-attachments/assets/90e5527a-a46f-4d3a-87db-f133a73d78e0" /> | <img width="1324" height="738" alt="image" src="https://github.com/user-attachments/assets/f5e69e41-3b18-47b6-bbbf-5304f8b4028d" /> |
 
 ---
 

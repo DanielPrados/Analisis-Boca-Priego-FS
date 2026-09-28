@@ -29,11 +29,15 @@ Proyecto de **Data Analytics aplicado al Fútbol Sala** mediante informes intera
 
 | Análisis Ofensivo | Análisis Defensivo | Análisis de Impacto y Errores |
 | :---: | :---: | :---: |
-| <img width="1324" alt="Análisis Ofensivo" src="https://github.com/user-attachments/assets/18c2e0a6-df47-4b26-b2df-56cdaf4e3ae2" /> | <img width="1324" alt="Análisis Defensivo" src="https://github.com/user-attachments/assets/22f9fee4-e9d7-4c52-9710-c9559f35a779" /> | <img width="1324" alt="Impacto y Errores" src="https://github.com/user-attachments/assets/49e5889a-f9a6-40ca-8696-498c524093c4" /> |
+| <img width="1324" height="742" alt="image" src="https://github.com/user-attachments/assets/ed3dc628-2200-40cc-b9ff-ca3838f8af58" />
+ | <img width="1327" height="746" alt="image" src="https://github.com/user-attachments/assets/06138634-873a-49bd-8209-88e1a5175177" />
+ | <img width="1324" alt="Análisis Ofensivo" src="https://github.com/user-attachments/assets/18c2e0a6-df47-4b26-b2df-56cdaf4e3ae2" /> |
 
 | Comparativa vs Rival | Calendario de Partidos |
 | :---: | :---: |
-| <img width="1324" alt="Comparativa vs Rival" src="https://github.com/user-attachments/assets/2743c3cc-e6c1-444e-b417-5d8e0083f25a" /> | <img width="1324" alt="Calendario Boca" src="https://github.com/user-attachments/assets/aa090315-4f91-4092-bd46-c5a4626d19af" /> |
+| <img width="1325" height="746" alt="Captura de pantalla 2026-09-28 212753" src="https://github.com/user-attachments/assets/90e5527a-a46f-4d3a-87db-f133a73d78e0" />
+ | <img width="1324" height="738" alt="image" src="https://github.com/user-attachments/assets/f5e69e41-3b18-47b6-bbbf-5304f8b4028d" />
+ |
 
 ---
 
@@ -41,7 +45,9 @@ Proyecto de **Data Analytics aplicado al Fútbol Sala** mediante informes intera
 
 | Clasificación y Métricas Colectivas | Rendimiento Individual |
 | :---: | :---: |
-| <img width="1324" alt="Clasificación y Métricas Juvenil" src="https://github.com/user-attachments/assets/bc262320-f79c-466e-9ee9-852bf39a1b53" /> | <img width="1324" alt="Rendimiento Jugador Juvenil" src="https://github.com/user-attachments/assets/18c2e0a6-df47-4b26-b2df-56cdaf4e3ae2" /> |
+| <img width="1329" height="740" alt="image" src="https://github.com/user-attachments/assets/5f34d4ea-5dd4-4245-9dea-d4aaad872ca1" />
+ | <img width="1323" height="740" alt="image" src="https://github.com/user-attachments/assets/9bd3c0bd-564a-4840-84a9-149bc6360197" />
+ |
 
 ---
 

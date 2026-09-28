@@ -29,9 +29,7 @@ Proyecto de **Data Analytics aplicado al Fútbol Sala** mediante informes intera
 
 | Análisis Ofensivo | Análisis Defensivo | Análisis de Impacto y Errores |
 | :---: | :---: | :---: |
-| <img width="1324" height="742" alt="image" src="https://github.com/user-attachments/assets/ed3dc628-2200-40cc-b9ff-ca3838f8af58" />
- | <img width="1327" height="746" alt="image" src="https://github.com/user-attachments/assets/06138634-873a-49bd-8209-88e1a5175177" />
- | <img width="1324" alt="Análisis Ofensivo" src="https://github.com/user-attachments/assets/18c2e0a6-df47-4b26-b2df-56cdaf4e3ae2" /> |
+| <img width="1324" height="742" alt="image" src="https://github.com/user-attachments/assets/ed3dc628-2200-40cc-b9ff-ca3838f8af58" /> | <img width="1327" height="746" alt="image" src="https://github.com/user-attachments/assets/06138634-873a-49bd-8209-88e1a5175177" /> | <img width="1324" alt="Análisis Ofensivo" src="https://github.com/user-attachments/assets/18c2e0a6-df47-4b26-b2df-56cdaf4e3ae2" /> |
 
 | Comparativa vs Rival | Calendario de Partidos |
 | :---: | :---: |
